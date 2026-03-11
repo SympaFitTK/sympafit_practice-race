@@ -1,0 +1,8 @@
+ACKNOWLEDGMENTS
+
+[既存の謝辞があればここに記載]
+
+The results of this study are presented clearly, honestly, and without fabrication, falsification, or inappropriate data manipulation. The results of the present study do not constitute endorsement by the American College of Sports Medicine.
+
+---
+上記の2文は MSSE の必須要件です。Acknowledgments セクションの最後に追加してください。
