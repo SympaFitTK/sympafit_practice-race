@@ -1,0 +1,31 @@
+================================================================================
+ACKNOWLEDGMENTS SECTION TEMPLATE FOR MSSE SUBMISSION
+================================================================================
+
+Copy the following text and add it to the Acknowledgments section of your
+manuscript. This contains the required declarations for MSSE publication.
+
+--------------------------------------------------------------------------------
+REQUIRED TEXT (copy from here):
+--------------------------------------------------------------------------------
+
+ACKNOWLEDGMENTS
+
+[Your existing acknowledgments here, e.g., funding sources, contributors, etc.]
+
+The authors declare that the results of the study are presented clearly,
+honestly, and without fabrication, falsification, or inappropriate data
+manipulation. The results of the present study do not constitute endorsement
+by the American College of Sports Medicine.
+
+--------------------------------------------------------------------------------
+END OF REQUIRED TEXT
+--------------------------------------------------------------------------------
+
+NOTES:
+- This declaration is MANDATORY for all MSSE publications
+- Place this at the END of your Acknowledgments section
+- Do NOT modify the wording of the declaration
+- You may add your own acknowledgments (funding, contributors) before this text
+
+================================================================================
