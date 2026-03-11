@@ -1,0 +1,22 @@
+ACKNOWLEDGMENTS SECTION - MSSE REQUIRED TEXT
+=============================================
+
+Copy and paste the following text into your Acknowledgments section:
+
+---
+
+ACKNOWLEDGMENTS
+
+[既存の謝辞があればここに記載]
+
+The authors declare that the results of the study are presented clearly, honestly,
+and without fabrication, falsification, or inappropriate data manipulation. The
+results of the present study do not constitute endorsement by the American College
+of Sports Medicine.
+
+---
+
+日本語訳（参考）:
+著者らは、本研究の結果が明確かつ誠実に提示されており、捏造、改ざん、
+または不適切なデータ操作がないことを宣言します。本研究の結果は、
+アメリカスポーツ医学会（ACSM）による推奨を構成するものではありません。
